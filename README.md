@@ -70,7 +70,7 @@ python food_tracker.py
 
 ### **Weekly Calorie Trend**
 
-![Weekly Calorie Chart](screenshots/weekly_chart.png)
+![Weekly Calorie Chart][(screenshots/weekly_chart.png)](https://github.com/SonaliTiwary06/PrOjEcT_02/blob/main/Bar-chart%202025-08-13%20103009.png)
 
 ### **Daily Meal Breakdown**
 
