@@ -74,7 +74,7 @@ python food_tracker.py
 
 ### **Daily Meal Breakdown**
 
-![Meal Pie Chart](screenshots/pie_chart.png)
+![Meal Pie Chart][(screenshots/pie_chart.png)](https://github.com/SonaliTiwary06/PrOjEcT_02/blob/main/Pie-chart%202025-08-13%20103100.png)
 
 
 
